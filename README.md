@@ -11,20 +11,20 @@ Sections:
 5) Certification.
 
 Technology Used:
-1)HTML5
-2)CSS3
-3)Bootstrap
+1) HTML5
+2) CSS3
+3) Bootstrap
 
 Features:
-1)User Friendly
-2)Responsive
+1) User Friendly
+2) Responsive
 
 Future Changes:
-1)UI Improvements.
+1) UI Improvements.
 
 References:
-Bootstrap: https://getbootstrap.com/
-Youtube.
+1) Bootstrap: https://getbootstrap.com/
+2) Youtube
 
 
 
